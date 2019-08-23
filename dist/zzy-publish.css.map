@@ -1,0 +1,1 @@
+{"version":3,"sources":["demo/style/index.pcss"],"names":[],"mappings":"AAAA;IACI,WAAW;IACX,gBAAgB;AACpB","file":"zzy-publish.css","sourcesContent":[".main-box {\r\n    color:green;\r\n    font-weight:bold;\r\n}"]}
